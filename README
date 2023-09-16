@@ -1,1 +1,6 @@
-test project for aws github deployment
+#AWS deployment demo with CI/CD
+
+## Tools used 
+- Github (connected with AWS with webhook)
+- Gradle
+- AWS 
