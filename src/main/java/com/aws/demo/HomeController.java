@@ -11,6 +11,6 @@ public class HomeController {
 
     @GetMapping("/home")
         public String index() {
-            return "This is the home page";
+            return "Checking if it can build automatically";
         }
 }
